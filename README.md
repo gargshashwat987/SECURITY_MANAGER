@@ -11,6 +11,6 @@
 # Python Program:
 1. Develop a Python program named security_manager.py
 2. Implement the following features in your program. <br/>
-a. Blocking USB Ports and Disabling Bluetooth.
-b. Disabling Command Prompt.
+a. Blocking USB Ports and Disabling Bluetooth.<br/>
+b. Disabling Command Prompt.<br/>
 c. Blocking Website Access
